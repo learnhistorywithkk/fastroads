@@ -12475,7 +12475,7 @@
             audio: { roll: cr, engine: pr },
             wheels: {
               tyreWidth: 3,
-              width: 4,
+              width: 3.4,
               length: 2.75,
               radius: 1.11,
               circumference: 7,
@@ -12492,7 +12492,7 @@
               mass: 10,
               steerAccel: 60,
               maxSteer: 0.4,
-              axleHeight: 5,
+              axleHeight: 0,
               dampening: 0.1,
               rockFactor: 4,
               drag: 0.0001,
